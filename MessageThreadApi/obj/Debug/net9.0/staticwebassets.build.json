@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "iayUhy+u9a+1wCmzt+Z7AoYJvV0syCwhnC9JyovI6FQ=",
+  "Source": "MessageThreadApi",
+  "BasePath": "_content/MessageThreadApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
